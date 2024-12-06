@@ -140,7 +140,7 @@ urlpatterns = [
     path('admin/', admin.site.urls), 
       path('area/',views.lightpower,name="areaofrectangleroot")
 ]
-
+```
 
 # HOMEPAGE:
 ![Screenshot 2024-12-06 234541](https://github.com/user-attachments/assets/7aa3c673-fffd-4e1e-8797-65ef90c9dce2)
